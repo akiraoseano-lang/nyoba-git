@@ -1,0 +1,1 @@
+print("Janson suka sange")
