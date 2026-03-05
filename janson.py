@@ -1,1 +1,1 @@
-print("Janson suka sange")
+print("Janson cinta Ose")
